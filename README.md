@@ -1,2 +1,1 @@
-# AI-
-projct with AI AND Machine learning 
+# crisis_whisper_network
